@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "238382646530",
+    "firebase_url": "https://chatting-ce3ff-default-rtdb.firebaseio.com",
+    "project_id": "chatting-ce3ff",
+    "storage_bucket": "chatting-ce3ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238382646530:android:6b5cd156609c6a86dfae1b",
+        "android_client_info": {
+          "package_name": "com.example.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238382646530-k445nidbmovugckdhsjmih82mbl3h97i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-7aBOE_mBHimhHCeSKnY1ozNIPOMBiRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238382646530-k445nidbmovugckdhsjmih82mbl3h97i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238382646530:android:2f357029f5b1c368dfae1b",
+        "android_client_info": {
+          "package_name": "com.nizetech.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238382646530-k445nidbmovugckdhsjmih82mbl3h97i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-7aBOE_mBHimhHCeSKnY1ozNIPOMBiRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238382646530-k445nidbmovugckdhsjmih82mbl3h97i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238382646530:android:7a70aa5377cd50bcdfae1b",
+        "android_client_info": {
+          "package_name": "com.nizetech.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238382646530-k445nidbmovugckdhsjmih82mbl3h97i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-7aBOE_mBHimhHCeSKnY1ozNIPOMBiRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238382646530-k445nidbmovugckdhsjmih82mbl3h97i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
